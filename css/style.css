@@ -248,7 +248,7 @@ button {
 
 .main-container__wrap {
   display: flex;
-  padding: 15px 0 0 25px;
+  padding: 15px 15px 0 25px;
   height: 500px;
   flex: 0;
 }
